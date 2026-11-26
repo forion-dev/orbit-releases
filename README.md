@@ -4,7 +4,7 @@ Official desktop and Android builds of **Orbit by Forion**.
 
 ## Desktop
 
-Download the latest desktop release from the [Releases page](https://github.com/forion-dev/orbit-releases/releases/latest). Each release includes:
+Download the latest desktop release from the [Releases page](https://github.com/forion-dev/orbit-releases/releases). Each release includes:
 
 - **Windows** — `Orbit-Setup-<version>.exe`
 - **macOS** — `Orbit-<version>.dmg`
