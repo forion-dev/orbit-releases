@@ -9,14 +9,9 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-Windows-x64.exe">
         <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-windows.png" alt="Download Orb for Windows" width="320">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-macOS.dmg">
-        <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-mac.png" alt="Download Orb for macOS" width="320">
       </a>
     </td>
   </tr>
@@ -42,7 +37,7 @@
 </table>
 
 <p align="center">
-  <sub>Desktop builds are unsigned test builds while signing is being prepared. macOS and Windows may show a security warning. Android installs are signed.</sub>
+  <sub>Desktop builds are unsigned test builds while signing is being prepared. Windows may show a security warning. Android installs are signed. The macOS build is coming soon.</sub>
 </p>
 
 <p align="center">
