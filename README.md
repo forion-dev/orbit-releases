@@ -1,39 +1,55 @@
-# Orbit Downloads
+<p align="center">
+  <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-banner.png" alt="Forion — Download Orb" width="100%">
+</p>
 
-Official Android and desktop builds of **Orbit by Forion**.
+<p align="center">
+  <strong>Download Orb</strong><br>
+  <sub>Official builds from <a href="https://forion.ai">Forion</a>.</sub>
+</p>
 
-## Android
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-Windows-x64.exe">
+        <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-windows.png" alt="Download Orb for Windows" width="320">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-macOS.dmg">
+        <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-mac.png" alt="Download Orb for macOS" width="320">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-Linux-x86_64.AppImage">
+        <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-linux.png" alt="Download Orb for Linux" width="320">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/forion-dev/orbit-releases/releases/download/android/Orb.apk">
+        <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-android.png" alt="Download Orb for Android" width="320">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://apps.apple.com/app/id6801531099">
+        <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-ios.png" alt="Open the App Store" width="320">
+      </a>
+    </td>
+  </tr>
+</table>
 
-Download the signed Android package directly:
+<p align="center">
+  <sub>Desktop builds are unsigned test builds while signing is being prepared. macOS and Windows may show a security warning. Android installs are signed.</sub>
+</p>
 
-**https://github.com/forion-dev/orbit-releases/releases/download/android/Orbit.apk**
-
-Install it on your Android phone. Orbit is not currently distributed on Google Play. Future builds use the same application identity and signing key, so a newer APK installs over the existing app without losing your data.
-
-## Desktop
-
-Signed desktop installers appear on the [Releases page](https://github.com/forion-dev/orbit-releases/releases) when a release is ready. Each desktop release includes:
-
-- **Windows** — `Orbit-Setup-<version>.exe`
-- **macOS** — `Orbit-<version>.dmg`
-- **Linux** — `Orbit-<version>.AppImage`
-
-The desktop app checks for updates automatically and installs them from this release channel.
-
-## Verify a download
-
-Every desktop release includes a `SHA256SUMS` file. Verify an installer before running it:
-
-```sh
-sha256sum -c SHA256SUMS
-```
-
-On macOS, use `shasum -a 256 -c SHA256SUMS`.
-
-## Security
-
-Please report security issues privately through GitHub Security Advisories rather than in a public issue. See [SECURITY.md](SECURITY.md).
-
-## About
-
-Orbit is built by [Forion](https://forion.ai). This repository hosts customer-facing release artifacts only.
+<p align="center">
+  <a href="https://forion.ai">Forion</a> ·
+  <a href="https://forion.ai/orb">Orb</a> ·
+  <a href="https://forion.ai/docs">Docs</a> ·
+  <a href="https://forion.ai/privacy">Privacy</a> ·
+  <a href="mailto:hello@forion.dev">Contact</a> ·
+  <a href="SECURITY.md">Security</a>
+</p>
