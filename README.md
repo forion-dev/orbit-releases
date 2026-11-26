@@ -8,6 +8,11 @@
 </p>
 
 <p align="center">
+  <!-- macOS download - enable when the macOS build is ready
+  <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-macOS.dmg">
+    <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-mac.png" alt="Download Orb for macOS" width="320">
+  </a><br><br>
+  -->
   <a href="https://github.com/forion-dev/orbit-releases/releases/download/desktop-test/Forion-Orb-Windows-x64.exe">
     <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-windows.png" alt="Download Orb for Windows" width="320">
   </a><br><br>
@@ -16,14 +21,16 @@
   </a><br><br>
   <a href="https://github.com/forion-dev/orbit-releases/releases/download/android/Orb.apk">
     <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-android.png" alt="Download Orb for Android" width="320">
-  </a><br><br>
+  </a>
+  <!-- App Store download - enable when the listing is ready
   <a href="https://apps.apple.com/app/id6801531099">
     <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-ios.png" alt="Open the App Store" width="320">
   </a>
+  -->
 </p>
 
 <p align="center">
-  <sub>Desktop builds are unsigned test builds while signing is being prepared. Windows may show a security warning. Android installs are signed. The macOS build is coming soon.</sub>
+  <sub>Desktop builds are unsigned test builds while signing is being prepared. Windows may show a security warning. Android installs are signed.</sub>
 </p>
 
 <p align="center">
