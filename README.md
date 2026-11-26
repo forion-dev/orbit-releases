@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-banner-v2.png" alt="Forion — Download Orb" width="100%">
+  <img src="https://raw.githubusercontent.com/forion-dev/orbit-releases/main/assets/forion-orb-banner-v3.png" alt="Forion — Download Orb" width="100%">
 </p>
 
 <p align="center">
