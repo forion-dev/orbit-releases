@@ -1,16 +1,6 @@
 # Orbit Downloads
 
-Official desktop and Android builds of **Orbit by Forion**.
-
-## Desktop
-
-Download the latest desktop release from the [Releases page](https://github.com/forion-dev/orbit-releases/releases). Each release includes:
-
-- **Windows** — `Orbit-Setup-<version>.exe`
-- **macOS** — `Orbit-<version>.dmg`
-- **Linux** — `Orbit-<version>.AppImage`
-
-The desktop app checks for updates automatically and installs them from this release channel.
+Official Android and desktop builds of **Orbit by Forion**.
 
 ## Android
 
@@ -19,6 +9,16 @@ Download the signed Android package directly:
 **https://github.com/forion-dev/orbit-releases/releases/download/android/Orbit.apk**
 
 Install it on your Android phone. Orbit is not currently distributed on Google Play. Future builds use the same application identity and signing key, so a newer APK installs over the existing app without losing your data.
+
+## Desktop
+
+Signed desktop installers appear on the [Releases page](https://github.com/forion-dev/orbit-releases/releases) when a release is ready. Each desktop release includes:
+
+- **Windows** — `Orbit-Setup-<version>.exe`
+- **macOS** — `Orbit-<version>.dmg`
+- **Linux** — `Orbit-<version>.AppImage`
+
+The desktop app checks for updates automatically and installs them from this release channel.
 
 ## Verify a download
 
