@@ -8,4 +8,4 @@ Please include the affected version, platform, and steps to reproduce. We will a
 
 ## Verifying downloads
 
-Release artifacts are published from the official Forion release workflow. Use the `SHA256SUMS` file included with each desktop release to verify an installer before running it.
+Release artifacts are published by Forion. For the current test builds, compare the SHA-256 digest shown on the release page with the file you downloaded. Signed production releases will include a `SHA256SUMS` file.
